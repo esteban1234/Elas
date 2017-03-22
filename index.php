@@ -24,7 +24,7 @@
 				</article>
 				<article class="textot pull-right">
 					<p class="negrita">Teléfono</p>
-					<p>999-20-30-702</p>
+					<p>999-10-10-102</p>
 				</article>
 			</article>
 
@@ -54,13 +54,22 @@
 
 <article class="menu">
 	<ul>
-		<li><a href="">INICIO</a></li>
+		<li class="select"><a href="">INICIO</a></li>
 		<li><a href="">QUIENES SOMOS</a></li>
 		<li><a href="">SERVICIOS</a></li>
 		<li><a href="">CONTACTO</a></li>
 	</ul>
 </article>
 
+<div class="banner">
+	
+</div>
+
+<article class="bannertexto">
+	<p>En ELAS CONSTRUCTORA DEL MAYAB, somos especialistas en el desarrollo de obras civiles y renta de maquinaria para la contrucción satisfaciendo a todos nuestros clientes llegando a cualquier lugar de nuestro país. Nos respaldan años de experiencia y a través del tiempo mantenemos invariable los más elevados estándares de calidad , seguridad y protección del medio ambiente.</p>
+</article>
+
+Nos especializamos en el desarrollo, edificación y mantenimiento de obras civiles, haciendo de la calidad el mejor aliado para garantizar la completa satisfacción de nuestros clientes. 
 		<!-- <a class="go-top" href="#">Subir</a> -->
 
 
