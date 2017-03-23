@@ -1,83 +1,153 @@
 <!DOCTYPE html>
 <?php include 'encabezado2.php' ?>
 <body>
-	<article class="contenedorpag">
-		<header>
-			<img src="../img/ambiensup.png" alt="AMBIENSUP ANALISTAS PROFESIONALES" class="img-responsive pull-left">
+<article class="encabezado">
+  <article class="encabezadouno">
+    <div class="dentro">
+      <li>Contsrución</li>
+      <li>Renta de maquinarias</li>
+      <li>Diseño</li>
+    </div>
+  </article>
 
-			<div class="col-md-7 pull-right menu">
-				<ul class="nav nav-tabs">
-					<li role="presentation"><a href="../index.php">Inicio</a></li>
-					<li role="presentation" class="active"><a href="nosotros.php">Quienes Somos</a></li>
-					<li role="presentation"><a href="servicios.php">Servicios</a></li>
-					<li role="presentation"><a href="contacto.php">Contacto</a></li>
-				</ul>
-			</div>
-		</header>
+  <article class="encabezadodos">
+    <figure class="logo pull-left" style="margin-left: 6%;">
+      <img src="../img/logo.png" alt="ELAS CONSTRUCTORA DEL MAYAB" class="img-responsive">
+    </figure>
 
-    <a class="go-top" href="#">Subir</a>
 
-		<ul class="breadcrumb text-right submenu">
-		  <li><a href="../index.php">Inicio</a> <span class="divider"></span></li>
-		  <li class="active">Quienes Somos</li>
-		</ul>
+    <div class="contendatos pull-right">
+      <article class="contentel">
+        <article class="iconot pull-left">
+          <i class="fa fa-phone fa-5x" aria-hidden="true"></i>
+        </article>
+        <article class="textot pull-right">
+          <p class="negrita">Teléfono</p>
+          <p>999-10-10-102</p>
+        </article>
+      </article>
 
-		<article class="contennosotros">
-			<h1 class="colorh2">Conocenos</h1>
-	        <div class="row">
-	          <div class="col-md-6">
-	            <img class="imgmedio" src="../img/medioambiente.jpg"
-	            class="img-responsive">
-	          </div>
-	          <div class="col-md-6">
-	            <p class=" text-nosotros colorp">
-	              Somos una empresa dedicada a la producción de análisis científicos del subsuelo, otorgando servicios de geofísica, medio ambiente y arquitectura, brindando soluciones efectivas al mejor costo para nuestros clientes.
-	              <br><br>
+      <article class="contenofi">
+        <article class="icono pull-left">
+          <i class="fa fa-home fa-5x" aria-hidden="true"></i>
+        </article>
+        <article class="texto pull-right">
+          <p class="negrita">Oficina</p>
+          <p>C.3 #235 entre 32 y 36 Col. Campestre, Mérida, Yucatán. C.P.97120</p>
+        </article>
+      </article>
 
-	              Promoveemos e impulsamos iniciativas en desarrollo sustentable a través de nuestros servicios, promoviendo el cuidado y conservación del medio ambiente. Somos una empresa conformada por profesionales y expertos en múltiples disciplinas entre las que se destacan Especialistas en Sistemas de Información, Geólogos, Ingenieros Geólogos, Geofísicos, Ingenieros de Petróleos, Ingenieros de Sistemas, Ingenieros Electrónicos, Físicos,  entre otros;
-	            </p>
-	          </div>
-	        </div>
-		</article>
+      <article class="contenofi">
+        <article class="icono pull-left">
+          <i class="fa fa-clock-o fa-5x" aria-hidden="true"></i>
+        </article>
+        <article class="texto pull-right">
+          <p class="negrita">Horario</p>
+          <p>Lun - Vie 9am - 6pm</p>
+        </article>
+      </article>
+    </div>
 
+  </article>
+</article>
+
+<article class="menu">
+  <ul>
+    <li><a href="../index.php">INICIO</a></li>
+    <li class="select"><a href="nosotros.php">QUIENES SOMOS</a></li>
+    <li><a href="servicios.php">SERVICIOS</a></li>
+    <li><a href="contacto.php">CONTACTO</a></li>
+  </ul>
+</article>
+
+ <div class="section" id="contenmv">
+      <div class="container">
         <div class="row">
-          <div class="col-md-3">
+          <div class="col-md-2">
             <img src="../img/mision.jpg"
-            class="img-responsive imgmvs">
-            <h2 class="colorh2">Misión</h2>
-            <p class="colorp">
-            	Ofrecer servicios de consultoría del sector ambiental, servicos de levantamiento geofísico y servicos de arquitectura con la mas alta calidad y apegados a estandares internacionales atendiendo las necesidades de nuestros clientes de forma rápida, profesional y con enfoque humanista.
-            </p>
+            class="img-responsive">
           </div>
-          <div class="col-md-3">
-            <img src="../img/vision.png"
-            class="img-responsive imgmvs">
-            <h2 class="colorh2">Visión</h2>
-            <p class="colorp">
-              Ser una empresa reconocida cuyo trabajo contribuye a la generación y fortalecimiento de una cultura ambiental en todos sus servicios y por lo consiguiente lider en el sector de la consultoría y servicios geofísicos.
-            </p>
+          <div class="col-md-4">
+            <h3 class="text-left">Misión</h3>
+            <p class="text-left textom">Ser una empresa líder satisfaciendo las expectativas de nuestros clientes y contribuyendo al progreso y bienestar de los lugares donde trabajamos.</p>
           </div>
-          <div class="col-md-3">
-            <img src="../img/objetivo.jpg"
-            class="img-responsive imgmvs">
-            <h2 class="colorh2">Objetivo</h2>
-            <p class="colorp">
-              Brindar los mejores servicios de análisis Geofísicos del mercado, apoyándonos completamente de todo nuestro equipo, conocimiento y experiencia, contando con la innovación, la actualización tecnológica, y la satisfacción de nuestros clientes. 
-            </p>
+          <div class="col-md-2">
+            <img src="../img/vision.jpg"
+            class="img-responsive">
           </div>
-          <div class="col-md-3">
-            <img src="../img/valores.jpg"
-            class="img-responsive imgmvs">
-            <h2 class="colorh2">Valores</h2>
-            <p class="colorp">
-              Nuestros valores son, la honestidad, lealtad, trabajo y responsabilidad, para entregarle los mas rentables resultados y fortalecer al máximo su proyecto.
-            </p>
+          <div class="col-md-4">
+            <h3 class="text-left">Visión</h3>
+            <p class="text-left textom">Ser una empresa constructora y rentadora de maquinarias para la construcción exitosa y reconocida por nuestros clientes a través de la ética y la calidad de sus servicios.</p>
           </div>
         </div>
+      </div>
+    </div>
 
+
+    <div class="section" id="contenmv">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <h1 class="text-center">Valores</h1>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-4">
+            <article class="iconov">
+              <i class="fa fa-child fa-5x" aria-hidden="true"></i>
+            </article>
+            <h3 class="text-center">Responsabilidad</h3>
+            
+          </div>
+          <div class="col-md-4">
+            <article class="iconov">
+              <i class="fa fa-users fa-5x" aria-hidden="true"></i>
+            </article>
+            <h3 class="text-center">Trabajo en equipo</h3>
+           
+          </div>
+          <div class="col-md-4">
+            <article class="iconov">
+              <i class="fa fa-handshake-o fa-5x" aria-hidden="true"></i>
+            </article>
+            <h3 class="text-center">Honestidad</h3>
+           
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="section" id="contenmv">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-4">
+            <article class="iconov">
+              <i class="fa fa-check-square-o fa-5x" aria-hidden="true"></i>
+            </article>
+            <h3 class="text-center">Calidad</h3>
+            
+          </div>
+          <div class="col-md-4">
+            <article class="iconov">
+              <i class="fa fa-refresh fa-5x" aria-hidden="true"></i>
+            </article>
+            <h3 class="text-center">Respeto</h3>
+           
+          </div>
+          <div class="col-md-4">
+            <article class="iconov">
+              <i class="fa fa-line-chart fa-5x" aria-hidden="true"></i>
+            </article>
+            <h3 class="text-center">Eficiencia</h3>
+           
+          </div>
+        </div>
+      </div>
+    </div>
+
+<a class="go-top" href="#">Subir</a>
 <?php include 'pie.php' ?>
 
-	</article>
 
 <script src="../js/jquery.js"></script>
 <script src="../js/bootstrap.js"></script>

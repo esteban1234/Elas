@@ -54,24 +54,74 @@
 
 <article class="menu">
 	<ul>
-		<li class="select"><a href="">INICIO</a></li>
-		<li><a href="">QUIENES SOMOS</a></li>
-		<li><a href="">SERVICIOS</a></li>
-		<li><a href="">CONTACTO</a></li>
+		<li class="select"><a href="index.php">INICIO</a></li>
+		<li><a href="vistas/nosotros.php">QUIENES SOMOS</a></li>
+		<li><a href="vistas/servicios.php">SERVICIOS</a></li>
+		<li><a href="vistas/contacto.php">CONTACTO</a></li>
 	</ul>
 </article>
 
 <div class="banner">
-	
+	<p class="bannerleyenda">CONSTRUCCION Y RENTA DE MAQUINARIAS</p>
+	<p class="boton"><a href="vistas/contacto.php">Contáctanos</a></p>
 </div>
 
 <article class="bannertexto">
-	<p>En ELAS CONSTRUCTORA DEL MAYAB, somos especialistas en el desarrollo de obras civiles y renta de maquinaria para la contrucción satisfaciendo a todos nuestros clientes llegando a cualquier lugar de nuestro país. Nos respaldan años de experiencia y a través del tiempo mantenemos invariable los más elevados estándares de calidad , seguridad y protección del medio ambiente.</p>
+	<p>En ELAS CONSTRUCTORA DEL MAYAB, somos especialistas en el desarrollo de obras civiles y renta de maquinaria para la contrucción satisfaciendo a todos nuestros clientes llegando a cualquier lugar de nuestro país. Nos respaldan años de experiencia manteniendo los estándares de calidad , seguridad y protección del medio ambiente.</p>
 </article>
+	
 
-Nos especializamos en el desarrollo, edificación y mantenimiento de obras civiles, haciendo de la calidad el mejor aliado para garantizar la completa satisfacción de nuestros clientes. 
-		<!-- <a class="go-top" href="#">Subir</a> -->
+	<div class="section">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <h1 class="text-center">Algunos servicios</h1>
+            <p class="text-center">Construimos obras que superan las espectativas de nuestros clientes</p>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-2">
+            <img src="img/diseño.jpg"
+            class="img-responsive img-thumbnail">
+          </div>
+          <div class="col-md-4">
+            <h3 class="text-left">Diseño</h3>
+            <p class="text-left">Elaboración de planos, renders, láminas conceptuales, supervisión arquitectónica y diseño de interiores.</p>
+          </div>
+          <div class="col-md-2">
+            <img src="img/maquinaria3.jpg"
+            class="img-responsive img-thumbnail">
+          </div>
+          <div class="col-md-4">
+            <h3 class="text-left">Renta de maquinarias</h3>
+            <p class="text-left">Ofrecemos a nuestros clientes la renta directa de Equipos y Maquinarias Pesadas para la construcción, minería y actividades forestales.</p>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-2">
+            <img src="img/vivienda.jpg"
+            class="img-responsive img-thumbnail">
+          </div>
+          <div class="col-md-4">
+            <h3 class="text-left">Construcción de viviendas</h3>
+            <p class="text-left">Ofrecemos servicios de construcción de casas, edificios, piscinas y fachadas. Contando con la mas alta calidad.</p>
+          </div>
+          <div class="col-md-2">
+            <img src="img/remodelaciones2.jpg"
+            class="img-responsive img-thumbnail">
+          </div>
+          <div class="col-md-4 text-center">
+            <h3 class="text-left">Remodelaciones</h3>
+            <p class="text-left">Ofrecemos servicios de remodelación de casas, edificios, piscinas y fachadas. Contando con la mas alta calidad.</p>
+          </div>
+        </div>
+      </div>
+    </div>
 
+<p class="boton2"><a href="vistas/servicios.php">Servicios</a></p>
+
+<a class="go-top" href="#">Subir</a>
+<?php include 'vistas/pie.php' ?>
 
 
 <script src="js/jquery.js"></script>

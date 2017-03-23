@@ -17,11 +17,11 @@ $mail->From = $correo;
 $mail->FromName = $nombre;
 
 //To address and name
-$mail->addAddress("info@chipahua.com");
+$mail->addAddress("pendiente");
 
 $mail->isHTML(true);
 
-$mail->Subject = "Cotizacion Chipaua";
+$mail->Subject = "Cotizacion Elas";
 $mail->Body = "
               <b>Telefono: </b>.$telefono.<br/>
               <b>Comentario: </b>.$comentario.<br/>";

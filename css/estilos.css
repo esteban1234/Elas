@@ -162,10 +162,103 @@
     overflow: hidden;
     clear: both;
 }
+.bannerleyenda{
+	font-family: 'Roboto Condensed', sans-serif;
+	font-size: 55px;
+	color: #fff;
+	/*background-color: rgba(255,255,255,.5);*/
+	background-color: rgba(0,0,0,.5);
+	width: 50%;
+	margin: 0 auto;
+	margin-top: 5%;
+	text-align: center;
 
+}
+.boton{
+	/*outline: 2px red solid;*/
+	text-align: center;
+	width: 100%;
+	margin-top: 5%;
+}
+.boton a{
+	text-decoration: none;
+	color: #fff;
+	background: rgb(242,138,21);
+	padding: 15px 20px;
+	font-family: 'Oswald', sans-serif;
+	font-size: 20px;
+	border-radius: 5px;
+}
+.boton a:hover{
+	background-color: rgb(67,67,67);
+}
 .bannertexto{
 	background: rgb(242,138,21);
 	clear: both;
 	overflow: hidden;
+	/*height: 100px;*/
+	padding: 20px;
+}
+
+.bannertexto p{
+	border: 1px rgb(67,67,67) solid;
+	width: 60%;
+	margin: 0 auto;
+	padding: 20px;
+	text-align: center;
+	font-family: 'Roboto Condensed', sans-serif;
+	font-size: 19px;
+	color:  #ecf0f1 ;
+
+}
+.boton2{
+	/*outline: 2px red solid;*/
+	text-align: center;
+	width: 100%;
+	margin-top: 5%;
+	margin-bottom: 5%; 
+}
+.boton2 a{
+	text-decoration: none;
+	color: #fff;
+	background: rgb(242,138,21);
+	padding: 15px 20px;
+	font-family: 'Oswald', sans-serif;
+	font-size: 20px;
+	border-radius: 5px;
+}
+.boton2 a:hover{
+	background-color: rgb(67,67,67);
+}
+
+footer{
+	background: rgb(242,138,21);
+	font-family: 'Oswald', sans-serif;
 	height: 100px;
+	/*font-size: 20px;*/
+	overflow: hidden;
+}
+footer p{
+	width: 100%;
+	text-align: center;
+	font-size: 20px;
+	margin-top: 3%;
+}
+
+/*------------------nosotros------------*/
+
+#contenmv{
+	margin-top: 2%;
+}
+.textom{
+	font-size: 17px;
+}
+
+.iconov{
+	/*outline: 2px red solid;*/
+	text-align: center;
+}
+.iconov i{
+	font-size: 100px;
+	color: #F28A15;
 }
