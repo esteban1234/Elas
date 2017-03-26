@@ -1,72 +1,72 @@
 <!DOCTYPE html>
 <?php include 'encabezado2.php' ?>
 <body>
-	<article class="contenedorpag">
-			<header>
-			<img src="../img/ambiensup.png" alt="AMBIENSUP ANALISTAS PROFESIONALES" class="img-responsive pull-left">
+	
+  <article class="encabezado">
+  <article class="encabezadouno">
+    <div class="dentro">
+      <li>Contsrución</li>
+      <li>Renta de maquinarias</li>
+      <li>Diseño</li>
+    </div>
+  </article>
 
-			<div class="col-md-7 pull-right menu">
-				<ul class="nav nav-tabs">
-					<li role="presentation"><a href="../index.php">Inicio</a></li>
-					<li role="presentation"><a href="nosotros.php">Quienes Somos</a></li>
-					<li role="presentation"><a href="servicios.php">Servicios</a></li>
-					<li role="presentation" class="active"><a href="contacto.php">Contacto</a></li>
-				</ul>
-			</div>
-		</header>
-
-    <a class="go-top" href="#">Subir</a>
-
-		<ul class="breadcrumb text-right submenu">
-		  <li><a href="../index.php">Inicio</a> <span class="divider"></span></li>
-		  <li class="active">Contacto</li>
-		</ul>
+  <article class="encabezadodos">
+    <figure class="logo pull-left" style="margin-left: 6%;">
+      <img src="../img/logo.png" alt="ELAS CONSTRUCTORA DEL MAYAB" class="img-responsive">
+    </figure>
 
 
-		<section id="contact" class="content-section text-center">
-        <div class="contact-section">
-            <div class="container">
-              <h2>Formulario de Contacto</h2>
-              <p>Porfavor dejanos tus comentarios a traves de este formulario y nosotros no comunicaremos lo mas pronto posible.</p>
-              <div class="row">
-                <div class="col-md-8 col-md-offset-2">
-                  <form class="form-horizontal">
-                    <div class="form-group">
-                      <label for="exampleInputName2">Nombre (s)</label>
-                      <input type="text" class="form-control" id="exampleInputName2" placeholder="Escribe tu nombre">
-                    </div>
-                    <div class="form-group">
-                      <label for="exampleInputEmail2">Email</label>
-                      <input type="email" class="form-control" id="exampleInputEmail2" placeholder="ejemplo@ejemplo.com">
-                    </div>
-                    <div class="form-group">
-                      <label for="exampleInputtel">Teléfono</label>
-                      <input type="text" class="form-control" id="exampleInputtel" placeholder="Escribe tu Teléfono">
-                    </div>
-                    <div class="form-group ">
-                      <label for="exampleInputText">Comentario</label>
-                     <textarea  class="form-control" placeholder="Escribenos tu mensaje"></textarea> 
-                    </div>
-                    <button type="submit" class="btn btn-default">Enviar Mensaje</button>
-                  </form>
+    <div class="contendatos pull-right">
+      <article class="contentel">
+        <article class="iconot pull-left">
+          <i class="fa fa-phone fa-5x" aria-hidden="true"></i>
+        </article>
+        <article class="textot pull-right">
+          <p class="negrita">Teléfono</p>
+          <p>999-10-10-102</p>
+        </article>
+      </article>
 
-                  <hr>
-                    
-                </div>
-              </div>
-            </div>
-        </div>
-      </section>
+      <article class="contenofi">
+        <article class="icono pull-left">
+          <i class="fa fa-home fa-5x" aria-hidden="true"></i>
+        </article>
+        <article class="texto pull-right">
+          <p class="negrita">Oficina</p>
+          <p>C.3 #235 entre 32 y 36 Col. Campestre, Mérida, Yucatán. C.P.97120</p>
+        </article>
+      </article>
+
+      <article class="contenofi">
+        <article class="icono pull-left">
+          <i class="fa fa-clock-o fa-5x" aria-hidden="true"></i>
+        </article>
+        <article class="texto pull-right">
+          <p class="negrita">Horario</p>
+          <p>Lun - Vie 9am - 6pm</p>
+        </article>
+      </article>
+    </div>
+
+  </article>
+</article>
+
+<article class="menu">
+  <ul>
+    <li><a href="../index.php">INICIO</a></li>
+    <li><a href="nosotros.php">QUIENES SOMOS</a></li>
+    <li><a href="servicios.php">SERVICIOS</a></li>
+    <li class="select"><a href="contacto.php">CONTACTO</a></li>
+  </ul>
+</article>
 
 
 
+<a class="go-top" href="#">Subir</a>
+<?php include 'pie.php' ?>
 
-
-
-		<?php include 'pie.php' ?>
-	</article>
-
-	<script src="../js/jquery.js"></script>
+<script src="../js/jquery.js"></script>
 <script src="../js/bootstrap.js"></script>
 <script src="../js/arriba.js"></script>
 </body>

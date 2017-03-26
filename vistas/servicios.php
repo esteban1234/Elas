@@ -1,160 +1,71 @@
 <!DOCTYPE html>
 <?php include 'encabezado2.php' ?>
 <body>
-	<article class="contenedorpag">
-			<header>
-			<img src="../img/ambiensup.png" alt="AMBIENSUP ANALISTAS PROFESIONALES" class="img-responsive pull-left">
 
-			<div class="col-md-7 pull-right menu">
-				<ul class="nav nav-tabs">
-					<li role="presentation"><a href="../index.php">Inicio</a></li>
-					<li role="presentation"><a href="nosotros.php">Quienes Somos</a></li>
-					<li role="presentation" class="active"><a href="servicios.php">Servicios</a></li>
-					<li role="presentation"><a href="contacto.php">Contacto</a></li>
-				</ul>
-			</div>
-		</header>
+<article class="encabezado">
+  <article class="encabezadouno">
+    <div class="dentro">
+      <li>Contsrución</li>
+      <li>Renta de maquinarias</li>
+      <li>Diseño</li>
+    </div>
+  </article>
 
-    <a class="go-top" href="#">Subir</a>
-
-		<ul class="breadcrumb text-right submenu">
-		  <li><a href="../index.php">Inicio</a> <span class="divider"></span></li>
-		  <li class="active">Servicios</li>
-		</ul>
+  <article class="encabezadodos">
+    <figure class="logo pull-left" style="margin-left: 6%;">
+      <img src="../img/logo.png" alt="ELAS CONSTRUCTORA DEL MAYAB" class="img-responsive">
+    </figure>
 
 
-		<article class="baner">
-			<p class="textbaner">AMBIENSUP ANALISTAS PROFESIONALES S.A DE C.V ofrece un servicio integral de asesorías al potencial cliente que desea construir una obra. Nuestra empresa dispone de las herramientas, técnicas y servicios disponibles para nuestros clientes.</p>
-		</article>
+    <div class="contendatos pull-right">
+      <article class="contentel">
+        <article class="iconot pull-left">
+          <i class="fa fa-phone fa-5x" aria-hidden="true"></i>
+        </article>
+        <article class="textot pull-right">
+          <p class="negrita">Teléfono</p>
+          <p>999-10-10-102</p>
+        </article>
+      </article>
+
+      <article class="contenofi">
+        <article class="icono pull-left">
+          <i class="fa fa-home fa-5x" aria-hidden="true"></i>
+        </article>
+        <article class="texto pull-right">
+          <p class="negrita">Oficina</p>
+          <p>C.3 #235 entre 32 y 36 Col. Campestre, Mérida, Yucatán. C.P.97120</p>
+        </article>
+      </article>
+
+      <article class="contenofi">
+        <article class="icono pull-left">
+          <i class="fa fa-clock-o fa-5x" aria-hidden="true"></i>
+        </article>
+        <article class="texto pull-right">
+          <p class="negrita">Horario</p>
+          <p>Lun - Vie 9am - 6pm</p>
+        </article>
+      </article>
+    </div>
+
+  </article>
+</article>
+
+<article class="menu">
+  <ul>
+    <li><a href="../index.php">INICIO</a></li>
+    <li><a href="nosotros.php">QUIENES SOMOS</a></li>
+    <li class="select"><a href="servicios.php">SERVICIOS</a></li>
+    <li><a href="contacto.php">CONTACTO</a></li>
+  </ul>
+</article>
 
 
-		<article class="contenservicios1">
-			<h2 class="titulo">Servicio de levantamiento geofísico</h2>
-				<div class="hola">
-				<!-- <h1 class="colorh2 text-center">Soluciones Geofísicas</h1> <br> -->
-		        <!-- <div class="row"> -->
-		          <div class="col-md-4">
-		            <img id="imggeo" src="../img/geotecnia.jpg"
-		            class="img-responsive">
-		            <h2 class="colorh2">Geotécnia</h2>
-		            <p class="colorp">
-		            	<b><i class="fa fa-check-square-o" aria-hidden="true"></i>&nbsp;Down Hole</b> <br>
-		            	<b><i class="fa fa-check-square-o" aria-hidden="true"></i>&nbsp;Cross Hole</b> <br>
-		            	<b><i class="fa fa-check-square-o" aria-hidden="true"></i>&nbsp;Pruebas de continuidad</b> <br>
-		            	<b><i class="fa fa-check-square-o" aria-hidden="true"></i>&nbsp;Tomografia Sismica</b>
-		            </p>
-		          </div>
-		          <div class="col-md-4">
-		            <img id="imggeo" src="../img/mag.jpg"
-		            class="img-responsive">
-		            <h2 class="colorh2">Métodos electromagnéticos</h2>
-		            <p class="colorp">
-		            	<b><i class="fa fa-check-square-o" aria-hidden="true"></i>&nbsp;Georradar GPR</b> <br>
-		            	<b><i class="fa fa-check-square-o" aria-hidden="true"></i>&nbsp;Transitorio Electromagnético TEM</b>
-		            </p>
-		          </div>
-		          <div class="col-md-4">
-		            <img id="imggeo" src="../img/elec.jpg"
-		            class="img-responsive">
-		            <h2 class="colorh2">Métodos eléctricos</h2>
-		            <p class="colorp">
-		            	<b><i class="fa fa-check-square-o" aria-hidden="true"></i>&nbsp;Tomografía Eléctrica</b> <br>
-		            	<b><i class="fa fa-check-square-o" aria-hidden="true"></i>&nbsp;Sondeo Eléctrico Vertical</b> <br>
-		            	<b><i class="fa fa-check-square-o" aria-hidden="true"></i>&nbsp;Sondeo Eléctrico Vertical Wenner</b>
-		            </p>
-		          </div>
-            </div>
-		</article>
 
-
-		<article class="contenservicios2">
-			<h2 class="titulo">Servicio de consultoría en medio ambiente</h2>
-				<div class="hola">
-				<!-- <h1 class="colorh2 text-center">Soluciones Geofísicas</h1> <br> -->
-		        <!-- <div class="row"> -->
-		          <div class="col-md-4">
-		            <img id="imggeo" src="../img/impacto.jpg"
-		            class="img-responsive">
-		            <h2 class="colorh2">Impacto Ambiental</h2>
-		            <p class="colorp">
-		            	<b><i class="fa fa-check-square-o" aria-hidden="true"></i>&nbsp;Elaboración y trámite de Manifestación de &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Impacto Ambiental (MIA).</b> <br>
-		            	<b><i class="fa fa-check-square-o" aria-hidden="true"></i>&nbsp;Supervisión y cumplimiento de &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;condicionantes ambientales.</b> <br>
-		            	<b><i class="fa fa-check-square-o" aria-hidden="true"></i>&nbsp;Gestión de trámites ante SEMARNAT, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CONAGUA, SEDUMA y PROFEPA.</b>
-		            	<!-- <b><i class="fa fa-check-square-o" aria-hidden="true"></i>&nbsp;Tomografia Sismica</b> -->
-		            </p>
-		          </div>
-		          <div class="col-md-4">
-		            <img id="imggeo" src="../img/seguridad.jpg"
-		            class="img-responsive">
-		            <h2 class="colorh2">Seguridad y Riesgo Ambiental</h2>
-		            <p class="colorp">
-		            	<b><i class="fa fa-check-square-o" aria-hidden="true"></i>&nbsp;Estudios de Riesgo Ambiental.</b> <br>
-		            	<b><i class="fa fa-check-square-o" aria-hidden="true"></i>&nbsp;Programa de Prevención de Accidentes.</b> <br>
-		            	<!-- <b><i class="fa fa-check-square-o" aria-hidden="true"></i>&nbsp;Seguimiento e implementación de Programas.</b> <br> -->
-		            	<b><i class="fa fa-check-square-o" aria-hidden="true"></i>&nbsp;Manejo de Residuos Peligrosos.</b>
-		            </p>
-		          </div>
-		          <div class="col-md-4">
-		            <img id="imggeo" src="../img/eco.jpg"
-		            class="img-responsive">
-		            <h2 class="colorh2">Ecoturismo</h2>
-		            <p class="colorp">
-		            	<b><i class="fa fa-check-square-o" aria-hidden="true"></i>&nbsp;Diseño de proyectos de inversión.</b> <br>
-		            	<b><i class="fa fa-check-square-o" aria-hidden="true"></i>&nbsp;Estudios de Capacidad de Carga Ambiental.</b> <br>
-		            	<b><i class="fa fa-check-square-o" aria-hidden="true"></i>&nbsp;Cursos de Capacitación.</b> <br>
-		            	<b><i class="fa fa-check-square-o" aria-hidden="true"></i>&nbsp;Gestión de trámites y apoyos ante &nbsp;&nbsp;&nbsp;&nbsp;SEMARNAT, SEDUMA, CONAFOR, FIRCO, CDI.</b>
-		            </p>
-		          </div>
-            </div>
-		</article>
-
-		<article class="contenservicios3">
-			<h2 class="titulo">Servicio de Arquitectura</h2>
-				<div class="hola">
-				<!-- <h1 class="colorh2 text-center">Soluciones Geofísicas</h1> <br> -->
-		        <!-- <div class="row"> -->
-		          <div class="col-md-4">
-		            <img id="imggeo" src="../img/planos.jpg"
-		            class="img-responsive">
-		            <h2 class="colorh2">Proyectos</h2>
-		            <p class="colorp">
-		            	<b><i class="fa fa-check-square-o" aria-hidden="true"></i>&nbsp;Dirección de obra.</b> <br>
-		            	<b><i class="fa fa-check-square-o" aria-hidden="true"></i>&nbsp;Proyecto de rehabilitación.</b> <br>
-		            	<b><i class="fa fa-check-square-o" aria-hidden="true"></i>&nbsp;Cálculo de estructuras.</b> <br>
-		            	<b><i class="fa fa-check-square-o" aria-hidden="true"></i>&nbsp;Cálculo de instalaciones.</b> <br>
-		            	<b><i class="fa fa-check-square-o" aria-hidden="true"></i>&nbsp;Mediciones y presupuestos.</b>
-		            	<!-- <b><i class="fa fa-check-square-o" aria-hidden="true"></i>&nbsp;Tomografia Sismica</b> -->
-		            </p>
-		          </div>
-		          <div class="col-md-4">
-		            <img id="imggeo" src="../img/diseño.jpg"
-		            class="img-responsive">
-		            <h2 class="colorh2">Diseño</h2>
-		            <p class="colorp">
-		            	<b><i class="fa fa-check-square-o" aria-hidden="true"></i>&nbsp;Decoración.</b> <br>
-		            	<b><i class="fa fa-check-square-o" aria-hidden="true"></i>&nbsp;Locales comerciales.</b> <br>
-		            	<b><i class="fa fa-check-square-o" aria-hidden="true"></i>&nbsp;Distribución de oficinas.</b> <br>
-		            	<b><i class="fa fa-check-square-o" aria-hidden="true"></i>&nbsp;Mobiliario y stands llave en mano: diseño, &nbsp;&nbsp;&nbsp;&nbsp;fabricación, montaje y mantenimiento.</b>
-		            </p>
-		          </div>
-		          <div class="col-md-4">
-		            <img id="imggeo" src="../img/gestion3.jpg"
-		            class="img-responsive">
-		            <h2 class="colorh2">Gestión</h2>
-		            <p class="colorp">
-		            	<b><i class="fa fa-check-square-o" aria-hidden="true"></i>&nbsp;Licencia de obra.</b> <br>
-		            	<b><i class="fa fa-check-square-o" aria-hidden="true"></i>&nbsp;Licencia de actividad.</b> <br>
-		            	<b><i class="fa fa-check-square-o" aria-hidden="true"></i>&nbsp;Licencia de apertura.</b> <br>
-		            	<b><i class="fa fa-check-square-o" aria-hidden="true"></i>&nbsp;Coordinación de proveedores y ejecución &nbsp;&nbsp;&nbsp;&nbsp;de obras.</b>
-		            </p>
-		          </div>
-            </div>
-		</article>
-
-		<?php include 'pie.php' ?>
-	</article>
-
-	<script src="../js/jquery.js"></script>
+<a class="go-top" href="#">Subir</a>
+<?php include 'pie.php' ?>
+<script src="../js/jquery.js"></script>
 <script src="../js/bootstrap.js"></script>
 <script src="../js/arriba.js"></script>
 </body>
