@@ -61,6 +61,40 @@
   </ul>
 </article>
 
+<div class="mapa">
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3724.5476717826127!2d-89.61691898561354!3d21.010761386008127!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f5676babcff192b%3A0xb2f700e1910ec7ca!2sCalle+3+235%2C+Campestre%2C+97120+M%C3%A9rida%2C+Yuc.!5e0!3m2!1ses-419!2smx!4v1490657306551" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+</div>
+
+<div class="formulario">
+  <div class="col-md-12">
+      <div class="form-area">  
+          <form role="form">
+          <br style="clear:both">
+                      <h3 style="margin-bottom: 25px; text-align: center;">Formulario de contacto</h3>
+              <div class="form-group">
+              <input type="text" class="form-control" id="name" name="name" placeholder="Nombre(s)" required>
+            </div>
+            <div class="form-group">
+              <input type="text" class="form-control" id="email" name="email" placeholder="Email" required>
+            </div>
+            <div class="form-group">
+              <input type="text" class="form-control" id="mobile" name="mobile" placeholder="Teléfono" required>
+            </div>
+            <!-- <div class="form-group">
+              <input type="text" class="form-control" id="subject" name="subject" placeholder="Subject" required>
+            </div> -->
+                      <div class="form-group">
+                      <textarea class="form-control" type="textarea" id="message" placeholder="Mensaje" maxlength="140" rows="7"></textarea>
+                          <span class="help-block"><p id="characterLeft" class="help-block ">Has alcanzado el límite</p></span>                    
+                      </div>
+              
+          <button type="button" id="submit" name="submit" class="btn btn-warning pull-right">Enviar</button>
+          </form>
+      </div>
+  </div>
+
+</div>
+
 
 
 <a class="go-top" href="#">Subir</a>
@@ -69,5 +103,6 @@
 <script src="../js/jquery.js"></script>
 <script src="../js/bootstrap.js"></script>
 <script src="../js/arriba.js"></script>
+<script src="../js/contacto.js"></script>
 </body>
 </html>
