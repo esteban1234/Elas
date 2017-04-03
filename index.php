@@ -105,7 +105,7 @@
         </div>
         <div class="row">
           <div class="col-md-2">
-            <img src="img/vivienda.jpg"
+            <img src="img/vivienda.JPG"
             class="img-responsive img-thumbnail">
           </div>
           <div class="col-md-4">
