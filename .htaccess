@@ -1,0 +1,2 @@
+ ErrorDocument 403 http://localhost/github/elas/index.php
+ Options -Indexes

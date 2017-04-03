@@ -147,6 +147,10 @@
 	border-bottom: 2px #fff solid;
 }
 
+.icon-menu{
+	display: none;
+}
+
 .select{
 	border-bottom: 2px #fff solid;
 }

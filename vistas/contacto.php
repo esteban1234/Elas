@@ -59,6 +59,11 @@
     <li><a href="servicios.php">SERVICIOS</a></li>
     <li class="select"><a href="contacto.php">CONTACTO</a></li>
   </ul>
+  <div id="pull" class="icon-menu">
+		<p>Menú</p>
+		<i id="icon-abierto" class="fa fa-bars" aria-hidden="true"></i>
+		<i id="icon-cerrado" class="fa fa-times" aria-hidden="true"></i>
+	</div>
 </article>
 
 <div class="mapa">
@@ -72,23 +77,23 @@
           <br style="clear:both">
                       <h3 style="margin-bottom: 25px; text-align: center;">Formulario de contacto</h3>
               <div class="form-group">
-              <input type="text" class="form-control" id="name" name="nombre" placeholder="Nombre(s)" required>
+              <input type="text" class="form-control" id="name" name="nombre" placeholder="Nombre(s)" required/>
             </div>
             <div class="form-group">
-              <input type="text" class="form-control" id="email" name="correo" placeholder="Email" required>
+              <input type="text" class="form-control" id="email" name="correo" placeholder="Email" required/>
             </div>
             <div class="form-group">
-              <input type="text" class="form-control" id="mobile" name="telefono" placeholder="Teléfono" required>
+              <input type="text" class="form-control" id="mobile" name="telefono" placeholder="Teléfono" required/>
             </div>
             <!-- <div class="form-group">
               <input type="text" class="form-control" id="subject" name="subject" placeholder="Subject" required>
             </div> -->
                       <div class="form-group">
-                      <textarea class="form-control" type="textarea" id="message" name="comentario" placeholder="Mensaje" maxlength="140" rows="7"></textarea>
-                          <span class="help-block"><p id="characterLeft" class="help-block ">Has alcanzado el límite</p></span>                    
+                      <textarea class="form-control" type="textarea" id="message" name="comentario" placeholder="Mensaje" rows="7" required/></textarea>
+                          <!--<span class="help-block"><p id="characterLeft" class="help-block ">Has alcanzado el límite</p></span>                    -->
                       </div>
               
-          <button type="button" id="submit" name="submit" class="btn btn-warning pull-right">Enviar</button>
+          <button type="submit" id="submit" name="submit" class="btn btn-warning pull-right">Enviar</button>
           </form>
       </div>
   </div>
@@ -101,6 +106,7 @@
 <?php include 'pie.php' ?>
 
 <script src="../js/jquery.js"></script>
+<script src="../js/menu.js"></script>
 <script src="../js/bootstrap.js"></script>
 <script src="../js/arriba.js"></script>
 <script src="../js/contacto.js"></script>

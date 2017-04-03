@@ -58,6 +58,11 @@
     <li><a href="servicios.php">SERVICIOS</a></li>
     <li><a href="contacto.php">CONTACTO</a></li>
   </ul>
+  <div id="pull" class="icon-menu">
+		<p>Menú</p>
+		<i id="icon-abierto" class="fa fa-bars" aria-hidden="true"></i>
+		<i id="icon-cerrado" class="fa fa-times" aria-hidden="true"></i>
+	</div>
 </article>
 
  <div class="section" id="contenmv">
@@ -151,6 +156,7 @@
 
 
 <script src="../js/jquery.js"></script>
+<script src="../js/menu.js"></script>
 <script src="../js/bootstrap.js"></script>
 <script src="../js/arriba.js"></script>
 </body>
