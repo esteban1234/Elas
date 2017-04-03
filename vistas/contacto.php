@@ -66,25 +66,25 @@
 </div>
 
 <div class="formulario">
-  <div class="col-md-12">
+  <div class="col-xs-12 col-sm-12 col-md-12">
       <div class="form-area">  
-          <form role="form">
+          <form action="envia.php" method="post" role="form">
           <br style="clear:both">
                       <h3 style="margin-bottom: 25px; text-align: center;">Formulario de contacto</h3>
               <div class="form-group">
-              <input type="text" class="form-control" id="name" name="name" placeholder="Nombre(s)" required>
+              <input type="text" class="form-control" id="name" name="nombre" placeholder="Nombre(s)" required>
             </div>
             <div class="form-group">
-              <input type="text" class="form-control" id="email" name="email" placeholder="Email" required>
+              <input type="text" class="form-control" id="email" name="correo" placeholder="Email" required>
             </div>
             <div class="form-group">
-              <input type="text" class="form-control" id="mobile" name="mobile" placeholder="Teléfono" required>
+              <input type="text" class="form-control" id="mobile" name="telefono" placeholder="Teléfono" required>
             </div>
             <!-- <div class="form-group">
               <input type="text" class="form-control" id="subject" name="subject" placeholder="Subject" required>
             </div> -->
                       <div class="form-group">
-                      <textarea class="form-control" type="textarea" id="message" placeholder="Mensaje" maxlength="140" rows="7"></textarea>
+                      <textarea class="form-control" type="textarea" id="message" name="comentario" placeholder="Mensaje" maxlength="140" rows="7"></textarea>
                           <span class="help-block"><p id="characterLeft" class="help-block ">Has alcanzado el límite</p></span>                    
                       </div>
               

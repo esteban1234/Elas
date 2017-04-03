@@ -85,16 +85,16 @@
             class="img-responsive img-thumbnail">
           </div>
           <div class="col-md-4">
-            <h3 class="text-left">Diseño</h3>
-            <p class="text-left">Elaboración de planos, renders, láminas conceptuales, supervisión arquitectónica y diseño de interiores.</p>
+            <h3 class="text-left h3">Diseño</h3>
+            <p class="text-left justify">Elaboración de planos, renders, láminas conceptuales, supervisión arquitectónica y diseño de interiores.</p>
           </div>
           <div class="col-md-2">
             <img src="img/maquinaria3.jpg"
             class="img-responsive img-thumbnail">
           </div>
           <div class="col-md-4">
-            <h3 class="text-left">Renta de maquinarias</h3>
-            <p class="text-left">Ofrecemos a nuestros clientes la renta directa de Equipos y Maquinarias Pesadas para la construcción, minería y actividades forestales.</p>
+            <h3 class="text-left h3">Renta de maquinarias</h3>
+            <p class="text-left justify">Ofrecemos a nuestros clientes la renta directa de Equipos y Maquinarias Pesadas para la construcción, minería y actividades forestales.</p>
           </div>
         </div>
         <div class="row">
@@ -103,16 +103,16 @@
             class="img-responsive img-thumbnail">
           </div>
           <div class="col-md-4">
-            <h3 class="text-left">Construcción de viviendas</h3>
-            <p class="text-left">Ofrecemos servicios de construcción de casas, edificios, piscinas y fachadas. Contando con la mas alta calidad.</p>
+            <h3 class="text-left h3">Construcción de viviendas</h3>
+            <p class="text-left justify">Ofrecemos servicios de construcción de casas, edificios, piscinas y fachadas. Contando con la mas alta calidad.</p>
           </div>
           <div class="col-md-2">
             <img src="img/remodelaciones2.jpg"
             class="img-responsive img-thumbnail">
           </div>
           <div class="col-md-4 text-center">
-            <h3 class="text-left">Remodelaciones</h3>
-            <p class="text-left">Ofrecemos servicios de remodelación de casas, edificios, piscinas y fachadas. Contando con la mas alta calidad.</p>
+            <h3 class="text-left h3">Remodelaciones</h3>
+            <p class="text-left justify">Ofrecemos servicios de remodelación de casas, edificios, piscinas y fachadas. Contando con la mas alta calidad.</p>
           </div>
         </div>
       </div>

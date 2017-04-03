@@ -65,12 +65,12 @@
 <div class="section">
       <div class="container">
         <div class="row">
-          <div class="col-md-6">
+          <div class="col-xs-12 col-sm-6 col-md-6">
             <img src="../img/diseñoserv.jpg"
             class="img-responsive">
           </div>
-          <div class="col-md-6">
-            <h1>DISEÑO</h1>
+          <div class="col-xs-12 col-sm-6 col-md-6">
+            <h1 class="h3">DISEÑO</h1>
             <!-- <h3>A subtitle</h3> -->
             <p><strong>Servicios ofrecidos:</strong>
             <br>
@@ -88,11 +88,12 @@
       </div>
     </div>
     <br>
-    <div class="section">
+
+    <div class="section oculto">
       <div class="container">
         <div class="row">
-          <div class="col-md-6">
-            <h1>RENTA DE MAQUINARIA</h1>
+          <div class="col-xs-12 col-sm-6 col-md-6">
+            <h1 class="h3">RENTA DE MAQUINARIA</h1>
             <!-- <h3>A subtitle</h3> -->
             <p>Ofrecemos distintas máquinas en óptimas condiciones y equipadas para ejecutar sus construcciones:
             <br><br>
@@ -107,7 +108,7 @@
 				* Martillos Hidráulicos<br> <br>
 				Entre otras máquinas.</p>
           </div>
-          <div class="col-md-6">
+          <div class="col-xs-12 col-sm-6 col-md-6">
             <img src="../img/maquinariaserv.jpg"
             class="img-responsive">
           </div>
@@ -121,12 +122,12 @@
 <div class="section">
       <div class="container">
         <div class="row">
-          <div class="col-md-6">
+          <div class="col-xs-12 col-sm-6 col-md-6">
             <img src="../img/foto5.jpg"
             class="img-responsive">
           </div>
-          <div class="col-md-6">
-            <h1>CONSTRUCCION DE VIVIENDAS</h1>
+          <div class="col-xs-12 col-sm-6 col-md-6">
+            <h1 class="h3">CONSTRUCCION DE VIVIENDAS</h1>
             <!-- <h3>A subtitle</h3> -->
             <p> <strong>Servicios ofrecidos:</strong>
             <br>
@@ -146,11 +147,12 @@
       </div>
     </div>
     <br>
-    <div class="section">
+
+    <div class="section oculto">
       <div class="container">
         <div class="row">
-          <div class="col-md-6">
-            <h1>REMODELACIONES</h1>
+          <div class="col-xs-12 col-sm-6 col-md-6">
+            <h1 class="h3">REMODELACIONES</h1>
             <!-- <h3>A subtitle</h3> -->
             <p><strong>Servicios ofrecidos:</strong>
             <br>
@@ -166,7 +168,7 @@
 
 				* Ampliaciones</p>
           </div>
-          <div class="col-md-6">
+          <div class="col-xs-12 col-sm-6 col-md-6">
             <img src="../img/foto2.jpg"
             class="img-responsive">
           </div>

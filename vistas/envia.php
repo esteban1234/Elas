@@ -9,7 +9,7 @@ $mail = new PHPMailer();
 $nombre = $_POST['nombre'];
 $telefono = $_POST['telefono'];
 $correo = $_POST['correo'];
-$comentario = $_POST['mensaje'];
+$comentario = $_POST['comentario'];
 
 $mail->CharSet = 'utf-8';
 //From email address and name

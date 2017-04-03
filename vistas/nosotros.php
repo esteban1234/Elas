@@ -68,16 +68,16 @@
             class="img-responsive">
           </div>
           <div class="col-md-4">
-            <h3 class="text-left">Misión</h3>
-            <p class="text-left textom">Ser una empresa líder satisfaciendo las expectativas de nuestros clientes y contribuyendo al progreso y bienestar de los lugares donde trabajamos.</p>
+            <h3 class="text-left h3">Misión</h3>
+            <p class="text-left textom justify">Ser una empresa líder satisfaciendo las expectativas de nuestros clientes y contribuyendo al progreso y bienestar de los lugares donde trabajamos.</p>
           </div>
           <div class="col-md-2">
             <img src="../img/vision.jpg"
             class="img-responsive">
           </div>
           <div class="col-md-4">
-            <h3 class="text-left">Visión</h3>
-            <p class="text-left textom">Ser una empresa constructora y rentadora de maquinarias para la construcción exitosa y reconocida por nuestros clientes a través de la ética y la calidad de sus servicios.</p>
+            <h3 class="text-left h3">Visión</h3>
+            <p class="text-left textom justify">Ser una empresa constructora y rentadora de maquinarias para la construcción exitosa y reconocida por nuestros clientes a través de la ética y la calidad de sus servicios.</p>
           </div>
         </div>
       </div>
@@ -91,28 +91,29 @@
             <h1 class="text-center">Valores</h1>
           </div>
         </div>
+
         <div class="row">
-          <div class="col-md-4">
+          <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
             <article class="iconov">
               <i class="fa fa-child fa-5x" aria-hidden="true"></i>
             </article>
-            <h3 class="text-center">Responsabilidad</h3>
-            
+            <h3 class="text-center">Responsabilidad</h3>  
           </div>
-          <div class="col-md-4">
+
+          <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
             <article class="iconov">
               <i class="fa fa-users fa-5x" aria-hidden="true"></i>
             </article>
-            <h3 class="text-center">Trabajo en equipo</h3>
-           
+            <h3 class="text-center">Trabajo en equipo</h3> 
           </div>
-          <div class="col-md-4">
+
+          <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
             <article class="iconov">
               <i class="fa fa-handshake-o fa-5x" aria-hidden="true"></i>
             </article>
             <h3 class="text-center">Honestidad</h3>
-           
           </div>
+
         </div>
       </div>
     </div>
@@ -120,27 +121,27 @@
     <div class="section" id="contenmv">
       <div class="container">
         <div class="row">
-          <div class="col-md-4">
+          <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
             <article class="iconov">
               <i class="fa fa-check-square-o fa-5x" aria-hidden="true"></i>
             </article>
             <h3 class="text-center">Calidad</h3>
-            
           </div>
-          <div class="col-md-4">
+
+          <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
             <article class="iconov">
               <i class="fa fa-refresh fa-5x" aria-hidden="true"></i>
             </article>
-            <h3 class="text-center">Respeto</h3>
-           
+            <h3 class="text-center">Respeto</h3> 
           </div>
-          <div class="col-md-4">
+
+          <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
             <article class="iconov">
               <i class="fa fa-line-chart fa-5x" aria-hidden="true"></i>
             </article>
             <h3 class="text-center">Eficiencia</h3>
-           
           </div>
+
         </div>
       </div>
     </div>

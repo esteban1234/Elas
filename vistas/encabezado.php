@@ -12,7 +12,7 @@
   	<META NAME="Keywords" CONTENT="alquiler de maquinaria para construcción, minería y actividades forestales en mérida, construcción de vivienda unifamiliar, construcción de vivienda unifamiliar en mérida yucatan, servicios de construcción de inmuebles comerciales, institucionales y de servicios en merida yucatan."/>
   	<link rel="stylesheet" href="css/bootstrap.css">
   	<link rel="stylesheet" href="css/iconos.min.css">
-		<link rel="stylesheet" href="css/estilos.css">
-		<link rel="stylesheet" href="css/responsive.css">
+	<link rel="stylesheet" href="css/estilos.css">
+	<link rel="stylesheet" href="css/responsivo.css">
 	<link href="https://fonts.googleapis.com/css?family=Lato|Open+Sans|Oswald|Roboto|Roboto+Condensed" rel="stylesheet">
 </head>

@@ -1,0 +1,339 @@
+@media screen and (max-width: 480px){
+/**********************INICIA INDEX***********************/
+/***************ENCABEZADO*****************/
+    .encabezadouno .dentro, .contendatos{
+        display: none;
+    }
+
+    .encabezadodos{
+        height: 100%;
+        overflow: hidden;
+        padding: 0px;
+        margin-left: 12%;
+    }
+
+    .encabezadodos .logo{
+        width: 60%;
+        text-align: center;
+    }
+
+/**************MENU*****************/
+    .menu{
+        height: 100%;
+        display: none;
+    }
+
+    .menu ul{
+        width: 100%;
+    }
+
+    .menu ul li{
+        width: 100%;
+        margin: 0px;
+        padding: 12px;
+        text-align: center;
+    }
+
+/**********BANNER*************/
+    .bannerleyenda{
+        width: 100%;
+        font-size: 30px;
+        margin-top: 20%;
+    }
+
+    .boton{
+        margin-top: 10%;
+    }
+
+    .boton a{
+        font-size: 30px;
+    }
+
+    .bannertexto p{
+        width: 100%;
+        text-align: justify;
+    }
+
+    .h3{
+        text-align: center;
+    }
+
+    .justify{
+        text-align: justify;
+        margin-bottom: 10%;
+    }
+
+    .boton2{
+        margin-top: 5%;
+    }
+
+    .boton2 a{
+        font-size: 30px;
+    }
+
+    .container {
+        border: 2px solid green;
+    }
+
+    /*********************INICIA CONTACTO************/
+    .formulario{
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 599px) and (min-width: 481px) {
+    /**********************INICIA INDEX***********************/
+/***************ENCABEZADO*****************/
+    .encabezadouno .dentro, .contendatos{
+        display: none;
+    }
+
+    .encabezadodos{
+        height: 100%;
+        overflow: hidden;
+        padding: 0px;
+        margin-left: 12%;
+    }
+
+    .encabezadodos .logo{
+        width: 60%;
+        text-align: center;
+    }
+
+/**************MENU*****************/
+    .menu{
+        height: 100%;
+        display: none;
+    }
+
+    .menu ul{
+        width: 100%;
+    }
+
+    .menu ul li{
+        width: 100%;
+        margin: 0px;
+        padding: 12px;
+        text-align: center;
+    }
+
+/**********BANNER*************/
+    .bannerleyenda{
+        width: 100%;
+        font-size: 30px;
+        margin-top: 20%;
+    }
+
+    .boton{
+        margin-top: 10%;
+    }
+
+    .boton a{
+        font-size: 30px;
+    }
+
+    .bannertexto p{
+        width: 100%;
+        text-align: justify;
+    }
+
+    .h3{
+        text-align: center;
+    }
+
+    .justify{
+        text-align: justify;
+        margin-bottom: 10%;
+    }
+
+    .boton2{
+        margin-top: 5%;
+    }
+
+    .boton2 a{
+        font-size: 30px;
+    }
+
+     .formulario{
+        width: 80%;
+    }
+}
+
+@media screen and (max-width: 799px) and (min-width: 600px) {
+/**********************INICIA INDEX***********************/
+/***************ENCABEZADO*****************/
+    .encabezadouno .dentro{
+        width: 70%;
+        margin: auto;
+        height: 100%;
+    }
+
+    .dentro li{
+        height: 100%;
+        padding-top: 1%;
+    }
+
+    .contendatos{
+        display: none;
+    }
+    .encabezadodos{
+        height: 100%;
+        overflow: hidden;
+        padding: 0px;
+        margin-left: 12%;
+    }
+
+    .encabezadodos .logo{
+        width: 60%;
+        text-align: center;
+    }
+
+/**************MENU*****************/
+    .menu{
+        height: 100%;
+        display: none;
+    }
+
+    .menu ul{
+        width: 100%;
+    }
+
+    .menu ul li{
+        width: 100%;
+        margin: 0px;
+        padding: 12px;
+        text-align: center;
+    }
+
+/**********BANNER*************/
+    .bannerleyenda{
+        width: 100%;
+        font-size: 30px;
+        margin-top: 13%;
+    }
+
+    .boton{
+        margin-top: 10%;
+    }
+
+    .boton a{
+        font-size: 30px;
+    }
+
+    .bannertexto p{
+        width: 100%;
+        text-align: justify;
+    }
+
+    .h3{
+        text-align: center;
+    }
+
+    .justify{
+        text-align: justify;
+        margin-bottom: 10%;
+    }
+
+    .boton2{
+        margin-top: 5%;
+    }
+
+    .boton2 a{
+        font-size: 30px;
+    }
+
+     .formulario{
+        width: 80%;
+    }
+}
+
+@media screen and (max-width: 1023px) and (min-width: 800px) {
+    .encabezadouno .dentro{
+        width: 50%;
+        margin: auto;
+        height: 100%;
+    }
+
+    .dentro li{
+        height: 100%;
+        padding-top: 1%;
+    }
+
+   
+    .logo{
+        width: 23%;
+        margin-left: -10px;
+    }
+
+    .contendatos{
+        width: 70%;
+        margin: 0px;
+    }
+
+    .contentel, .contenofi
+    {
+        font-size: 11px;
+        width: 33%;
+    }
+
+
+   .menu ul{
+        width: 85%;
+    }
+
+
+     .bannerleyenda{
+        width: 100%;
+        font-size: 30px;
+        margin-top: 13%;
+    }
+
+    .boton{
+        margin-top: 10%;
+    }
+
+    .boton a{
+        font-size: 30px;
+    }
+
+     .bannertexto p{
+        width: 100%;
+        text-align: justify;
+    }
+
+    .h3{
+        text-align: center;
+    }
+
+    .justify{
+        text-align: justify;
+        margin-bottom: 10%;
+    }
+}
+
+@media screen and (max-width: 1280px) and (min-width: 1024px) {      /* mac*/
+     .encabezadouno .dentro{
+        width: 35%;
+        margin: auto;
+        height: 100%;
+    }
+
+     .contentel, .contenofi
+    {
+        font-size: 11px;
+        width: 33%;
+    }
+
+    .bannerleyenda{
+        width: 100%;
+        font-size: 30px;
+        margin-top: 13%;
+    }
+
+    .menu ul{
+        width: 65%;
+    }
+}
+@media screen and (max-width: 1366px) and (min-width: 1024px) { }
+
+@media screen and (min-width: 1367px) { }
