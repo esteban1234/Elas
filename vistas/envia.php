@@ -17,7 +17,7 @@ $mail->From = $correo;
 $mail->FromName = $nombre;
 
 //To address and name
-$mail->addAddress("pendiente");
+$mail->addAddress("ballina.santiago@gmail.com");
 
 $mail->isHTML(true);
 
