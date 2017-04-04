@@ -24,7 +24,7 @@
 				</article>
 				<article class="textot pull-right">
 					<p class="negrita">Teléfono</p>
-					<p>999-10-10-102</p>
+					<p>pendiente</p>
 				</article>
 			</article>
 
@@ -87,7 +87,7 @@
         </div>
         <div class="row">
           <div class="col-md-2">
-            <img src="img/diseño.jpg"
+            <img src="img/diseno.jpg"
             class="img-responsive img-thumbnail">
           </div>
           <div class="col-md-4">

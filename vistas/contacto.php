@@ -24,7 +24,7 @@
         </article>
         <article class="textot pull-right">
           <p class="negrita">Teléfono</p>
-          <p>999-10-10-102</p>
+          <p>pendiente</p>
         </article>
       </article>
 
